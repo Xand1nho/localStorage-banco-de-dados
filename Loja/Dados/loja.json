@@ -1,0 +1,63 @@
+[
+    {
+    "id": 1,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 2,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 3,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 4,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 5,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 6,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 7,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 8,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 9,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    },
+    {
+    "id": 10,
+    "nome": "Placa De Vídeo Nvidia RTX ASUS ROG ASTRAL 5080",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 1000.00
+    }
+   
+]

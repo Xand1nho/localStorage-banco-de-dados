@@ -3,13 +3,14 @@
     padding: 0; 
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 .container{
     position: relative;
-    background-color: rgba(255, 8, 0, 0.829);
-    width: 300px;
-    height: 350px;
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 600px;
     border: 2px solid black;
     display: flex;
     flex-direction: column;
@@ -18,68 +19,75 @@
     gap: 2vh;
     padding: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 30px;
+    
 }
 
 
 
+
 body{
-      font-family: "Inter", sans-serif;
-      background-color: #00e1ff7c;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: auto;
-      background-image: url(../Imagem/fundovermelhoeazul.webp);
+    background-image: url('./Images/fundobranco.jpeg');
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+    font-family: "Inter", sans-serif;
+    background-color: #000000;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
 }
 
 .logo{
     border-radius: 100%;
     width: 100px;
     height: 100px;
-    
 }
 
 .round{
     border-radius: 100%;
-    width: 110px;
-    height: 110px;
-    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    border: 3px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: -1%;
+    top: -1.5%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+    
 }
 
-.wrap-input-Label{
+.wrap-input-label{
     display: flex;
     flex-direction: column;
     align-items: left;
     text-align: left;
-    width: 80%;
+    width: 90%;
+    height: 20%;
     position: relative;
 }
 
 .eye{
     position: absolute;
     right: 20px;
-    bottom: 4px;
+    bottom: 60px;
     opacity: 0.7;
-    bottom: 155px;
 }
 
 .eye:hover{
     cursor:potiner;
     opacity: 1;
-
 }
 
 .wrap-input-label label{
-    color: #ffecd1;
+    color: #000000;
     font-size: 20px;
     margin-bottom: 5px;
 }
@@ -89,22 +97,22 @@ body{
     padding: 8px 0px;
     border: none;
     width: 100%;
-    border-bottom: 2px solid #ffecd1;
+    border-bottom: 2px solid #000000;
     font-size: 18px;
-    color: #ffecd1;
+    color: #ffffff;
 }
 
 input::placeholder{
-    color: #ffecd1;
+    color: #000000;
     font-size: 16px;
 }
 
 input:focus{
     border: none;
     outline: none;
-    color: #ff7d00;
+    color: #000000;
     font-size: 16px;
-    border-bottom: 2px solid #ff7d00;
+    border-bottom: 2px solid #2f00ff;
 }
 
 .btn-login{
@@ -135,20 +143,24 @@ input:focus{
     align-items: center;
     width: auto;
     height: auto;
-    background-color: lightpink;
+    background-color: rgba(207, 67, 88, 0.61);
+    width: 50%;
+    height: 10%;
     gap: 2vh;
     padding: 10px;
     position: absolute;
     bottom: 5%;
-    font-size: 14px;
+    font-size: 25px;
     font-weight: lighter;
-    box-shadow: rgba(209, 209, 209, 0.35) 0px 5 px 15px;
+    box-shadow: rgb(0, 0, 0) 0px 5 px 15px;
+    border-radius: 30%;
+    border-bottom: 5px solid black;
 }
 
 .error-div button{
     background-color: transparent;
     border: none;
-    opacity: 0.7;
+    opacity: 2.7;
     transition: all 200ms linear;
 }
 
