@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "Placa De Vídeo Nvidia RTX 5080 ASUS ROG Strix",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 12500.00
+  },
+  {
+    "id": 2,
+    "nome": "Processador AMD Ryzen 9 9950X AM5",
+    "imagem": "../Dados/Images/AMD.jpeg",
+    "preco": 4800.00
+  },
+  {
+    "id": 3,
+    "nome": "Placa-Mãe ASUS ROG Crosshair X870E Extreme",
+    "imagem": "../Dados/Images/Rogstrix.jpeg",
+    "preco": 5990.00
+  },
+  {
+    "id": 4,
+    "nome": "Kit Memória RAM Corsair Dominator Titanium 64GB (2x32GB) DDR5 7200MHz",
+    "imagem": "../Dados/Images/MemoriaRam.jpeg",
+    "preco": 2350.00
+  },
+  {
+    "id": 5,
+    "nome": "SSD NVMe Samsung 990 PRO 4TB Gen5",
+    "imagem": "../Dados/Images/ssd4tb.jpeg",
+    "preco": 2900.00
+  },
+  {
+    "id": 6,
+    "nome": "Fonte de Alimentação Corsair AX1600i 1600W 80 Plus Titanium Modular",
+    "imagem": "../Dados/Images/Fonte.jpeg",
+    "preco": 3800.00
+  },
+  {
+    "id": 7,
+    "nome": "Gabinete Lian Li O11 Dynamic EVO XL Full Tower Branco",
+    "imagem": "../Dados/Images/Gabinete.jpeg",
+    "preco": 1950.00
+  },
+  {
+    "id": 8,
+    "nome": "Water Cooler NZXT Kraken Elite 360mm com LCD Interativo",
+    "imagem": "../Dados/Images/WatterColer.jpeg",
+    "preco": 1700.00
+  },
+  {
+    "id": 9,
+    "nome": "Monitor Gamer Alienware 32\" 4K QD-OLED 240Hz",
+    "imagem": "../Dados/Images/Montiro.jpeg",
+    "preco": 9500.00
+  },
+  {
+    "id": 10,
+    "nome": "Teclado Mecânico Gamer Logitech G PRO X TKL LIGHTSPEED",
+    "imagem": "../Dados/Images/Teclado.jpeg",
+    "preco": 1250.00
+  }
+]
